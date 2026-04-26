@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "name": "Pearl Dental Clinic",
+    "mark": "P",
+    "tagline": "Modern Care. Warm Experience.",
+    "heading": "Healthy smiles for every age, from first tooth to forever care.",
+    "description": "From preventive checkups to cosmetic and advanced procedures, Pearl Dental delivers comfortable, high-quality treatment with a patient-first approach.",
+    "footer_desc": "Gentle, modern, and family-focused dental care for every smile. We believe in creating lasting relationships through exceptional care.",
+    "copyright_year": "2026"
+  },
+  "contact": {
+    "whatsapp_number": "919999999999",
+    "whatsapp_text": "Hi%20Pearl%20Dental%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+    "phone_display": "+91 99999 99999",
+    "phone_link": "+919999999999",
+    "address": [
+      "123 Smile Avenue",
+      "City Center",
+      "Bengaluru, 560001"
+    ]
+  },
+  "services_heading": {
+    "eyebrow": "What We Offer",
+    "title": "Dental services tailored to your smile goals",
+    "subtitle": "Comprehensive care designed around your comfort and long-term oral health."
+  },
+  "services": [
+    {
+      "title": "Comprehensive Checkup",
+      "description": "Routine dental examination, cleaning, and preventative care to keep your smile healthy.",
+      "image": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "Teeth Whitening",
+      "description": "Professional teeth whitening services for a brighter, more confident smile.",
+      "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "Orthodontics",
+      "description": "Clear aligners and traditional braces to straighten teeth and correct bites.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "Dental Implants",
+      "description": "Permanent replacements for missing teeth that look and function like natural teeth.",
+      "image": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "Root Canal Therapy",
+      "description": "Relieve tooth pain and save your natural tooth with our comfortable treatments.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "Pediatric Dentistry",
+      "description": "Gentle and friendly dental care tailored specifically for children's oral health.",
+      "image": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "stars": "★★★★★",
+      "quote": "\"The staff here is incredibly friendly and professional. I used to be terrified of the dentist, but they made me feel completely at ease. Highly recommend!\"",
+      "initials": "SJ",
+      "author": "Sarah Jenkins",
+      "role": "Regular Patient"
+    },
+    {
+      "stars": "★★★★★",
+      "quote": "\"Got my teeth whitened here before my wedding. The results were fantastic, and the process was quick and painless. Dr. Smith is great.\"",
+      "initials": "MC",
+      "author": "Michael Chen",
+      "role": "Cosmetic Patient"
+    },
+    {
+      "stars": "★★★★★",
+      "quote": "\"Brought my two kids in for their first checkup. The pediatric team was wonderful and patient. My kids actually enjoyed their visit!\"",
+      "initials": "AR",
+      "author": "Amanda Rivera",
+      "role": "Parent"
+    },
+    {
+      "stars": "★★★★☆",
+      "quote": "\"Had to get a root canal and was dreading it, but it went smoothly. Zero pain the next day. They really know what they are doing.\"",
+      "initials": "JT",
+      "author": "James Thompson",
+      "role": "Emergency Patient"
+    }
+  ],
+  "location": {
+    "map_link": "https://maps.google.com/?q=123+Smile+Avenue+City+Center+Bengaluru",
+    "map_iframe": "https://www.google.com/maps?q=123+Smile+Avenue+City+Center+Bengaluru&output=embed"
+  }
+}
