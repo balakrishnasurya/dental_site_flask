@@ -1,18 +1,19 @@
 {
   "brand": {
-    "name": "Pearl Dental Clinic",
-    "mark": "P",
+    "name": "Dr. Dental",
+    "mark": ".",
     "tagline": "Modern Care. Warm Experience.",
     "heading": "Healthy smiles for every age, from first tooth to forever care.",
     "description": "From preventive checkups to cosmetic and advanced procedures, Pearl Dental delivers comfortable, high-quality treatment with a patient-first approach.",
     "footer_desc": "Gentle, modern, and family-focused dental care for every smile. We believe in creating lasting relationships through exceptional care.",
-    "copyright_year": "2026"
+    "copyright_year": "2026",
+    "image": "./images/dental-checkup-main.jpg"
   },
   "contact": {
-    "whatsapp_number": "919999999999",
+    "whatsapp_number": "9000059427",
     "whatsapp_text": "Hi%20Pearl%20Dental%2C%20I%20would%20like%20to%20book%20an%20appointment.",
-    "phone_display": "+91 99999 99999",
-    "phone_link": "+919999999999",
+    "phone_display": "+91 9000059427",
+    "phone_link": "+9000059427",
     "address": [
       "123 Smile Avenue",
       "City Center",
@@ -28,32 +29,32 @@
     {
       "title": "Comprehensive Checkup",
       "description": "Routine dental examination, cleaning, and preventative care to keep your smile healthy.",
-      "image": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=600&q=80"
+      "image": "./images/comprehensive_checkup.avif"
     },
     {
       "title": "Teeth Whitening",
       "description": "Professional teeth whitening services for a brighter, more confident smile.",
-      "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80"
+      "image": "./images/teeth_white.jpg"
     },
     {
       "title": "Orthodontics",
       "description": "Clear aligners and traditional braces to straighten teeth and correct bites.",
-      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80"
+      "image": "./images/orthodontic.jpg"
     },
     {
       "title": "Dental Implants",
       "description": "Permanent replacements for missing teeth that look and function like natural teeth.",
-      "image": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=600&q=80"
+      "image": "./images/dental_implants.jpg"
     },
     {
-      "title": "Root Canal Therapy",
+      "title": "Root Canal Treatment",
       "description": "Relieve tooth pain and save your natural tooth with our comfortable treatments.",
-      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80"
+      "image": "./images/root-canal-treatment.jpg"
     },
     {
       "title": "Pediatric Dentistry",
       "description": "Gentle and friendly dental care tailored specifically for children's oral health.",
-      "image": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=600&q=80"
+      "image": "./images/pediatric_dentistry.jpeg"
     }
   ],
   "testimonials": [
